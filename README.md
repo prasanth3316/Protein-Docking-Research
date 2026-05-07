@@ -1,10 +1,10 @@
-# 🧬 Drug Target Binding 
+# Drug Target Binding 
 
 > This repository organizes all assets for a Drug Target Binding  study, including preprocessing scripts, analysis notebooks, datasets, and relevant literature.
 
 ---
 
-## 📚 Literature
+## Literature
 
 A curated list of important papers guiding this research.
 
@@ -24,7 +24,7 @@ A curated list of important papers guiding this research.
 | [Top-DTI: integrating topological deep learning and large language models for drug–target interaction prediction](https://academic.oup.com/bioinformatics/article/41/Supplement_1/i133/8199357) | [Code](https://github.com/bozdaglab/Top_DTI) |
 | [When Protein Structure Embedding Meets Large Language Models](https://www.mdpi.com/2073-4425/15/1/25) | [Code](https://github.com/pchourasia1/PDB_Plus_LLM_Contact_Map) |
 
-## 🔗 Other Relevant Repositories
+## Other Relevant Repositories
 
 A collection of external repositories that provide useful codebases, models, and paper lists related to protein docking.
 
